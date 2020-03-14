@@ -1,3 +1,48 @@
+# Patch notes:
+
+Slump Mod v1.0.0 
+Base of CompMod v2.0.2
+
+Reverted Halberd Turncap from nerf of 4500 to previous value of 5500
+
+SoW LMB release increased 0.5 -> 0.525 
+
+SoW OH release increased 0.5 -> 0.525
+
+SoW stab release increased 0.375 -> 0.4
+SlumpMod v1.0.1 
+
+Changes from SlumpMod v1.0.0. include:
+
+Bearded axe overhead damage increased 90 -> 100 
+- two overheads to the chest kill a knight
+- one overhead to the head kills a rat 
+
+Greatsword slash and overhead damage increased 90 -> 93
+- any combination of 1 torso hit and 1 leg hit will kill vanguards
+: SlumpMod v1.1.0 
+
+Changes from SlumpMod v1.0.1 include 
+
+Halberd turncap nerfed to an intermediary value of 5000
+Spear feint recovery on long stab & lmb increased from 0.2 to 0.3 seconds
+
+Projectile Changes: 
+
+Axes & Knives removed from knights and vanguards
+Smoke pots removed from vanguards
+Oil pots removed from man at arms
+Man at arms have option of 2 axes, 4 throwing knives or 3 smoke pots
+SlumpMod v 1.2.0. 
+
+Removed shields 
+Added butter knife as tertiary to knights & vanguards
+SlumpMod v1.2.1 
+
+Removed norse sword
+
+
+
 # SlumpMod
 
 *[From the original reddit /r/ChivalryGame post]*
