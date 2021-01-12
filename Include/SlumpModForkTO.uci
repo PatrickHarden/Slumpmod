@@ -1,0 +1,7 @@
+`define GAMEMODE SlumpModForkTO
+
+DefaultProperties
+{
+MinimumRespawnTime = 10.0
+
+}
