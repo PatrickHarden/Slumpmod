@@ -1,0 +1,29 @@
+[ChatMessages]
+Welcome=Welcome to Slump Mod!
+
+[SlumpModForkWeapon_Warbow]
+WeaponName=Warbow
+
+[SlumpModForkWeapon_Longbow]
+WeaponName=Longbow
+
+[SlumpModForkWeapon_Shortbow]
+WeaponName=Shortbow
+
+[SlumpModForkWeapon_HeavyCrossbow]
+WeaponName=Heavy Crossbow
+
+[SlumpModForkWeapon_LightCrossbow]
+WeaponName=Light Crossbow
+
+[SlumpModForkWeapon_Crossbow]
+WeaponName=Crossbow
+
+[SlumpModForkWeapon_HeavyCrossbow]
+WeaponName=Heavy Crossbow
+
+[SlumpModForkWeapon_Sling]
+WeaponName=Sling
+
+[SlumpModForkWeapon_ProjWarbowArrow]
+WeaponName=Warbow Arrow
